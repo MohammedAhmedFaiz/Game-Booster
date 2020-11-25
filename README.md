@@ -15,3 +15,4 @@ Step 5- Paste the code there
 
 Thank me later! 👍
 
+Please use wisely and I'm not responsible for any malfunctions
