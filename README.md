@@ -10,7 +10,7 @@ Step 4- Click on "target" and go the the last
 
 Step 5- Paste the code there
 
-**Note: You can edit the number in the code which is set 21, if you want more increased speed then increase the number but it may put extra load on your pc**
+**Note: You can edit the number in the code which is set 21 by default, if you want more increased speed then increase the number but it may put extra load on your pc**
 
 
 Thank me later! 👍
